@@ -1,3 +1,3 @@
 pandas==1.3.5
-lightfm==1.16
+git+https://github.com/dbalabka/lightfm.git@4293a3d786
 tqdm==4.64.0
