@@ -12,6 +12,9 @@ We then run a hyperparameter optimization using a Grid Search based on the const
 ### How to Run
 
 To run the Training pipeline, pip install the `lightFM_quickstart` module 
+```{zsh}
+pip install git+https://github.com/GmanB3398/lightFM_quickstart.git
+```
 
 ```{python3}
 from lightFM_quickstart.quickstart import lightfmModel, train_model_random_split
