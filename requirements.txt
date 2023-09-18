@@ -1,3 +1,3 @@
 pandas==1.3.5
-git+https://github.com/dbalabka/lightfm.git@4293a3d786
+git+https://github.com/dbalabka/lightfm.git@4293a3d786 # the official LightFM package is not updated for this version of Python
 tqdm==4.64.0

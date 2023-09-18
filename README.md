@@ -42,6 +42,7 @@ Training takes a long time, so be sure to cache trained model in pickle files or
 
 - Add Split by time
 - Add Evaluation functions
+- The LightFM version does not support Python 3.9, requires an installation from github.
 
 ## References 
 
